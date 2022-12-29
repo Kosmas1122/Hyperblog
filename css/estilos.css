@@ -34,3 +34,9 @@ body {
 #container h1 {
     font-size: 20px;
 }
+
+#footer {
+    background: #333;
+    color: white;
+    font-weight: bold;
+}
